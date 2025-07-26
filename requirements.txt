@@ -1,6 +1,8 @@
-flask
-openai
-whisper
-pillow
-pyautogui
-opencv-python-headless
+flask>=3.0.0
+pillow>=10.0.0
+
+# Optional dependencies - install only if needed
+# openai>=1.0.0
+# openai-whisper>=20231106
+# pyautogui>=0.9.50
+# opencv-python-headless>=4.8.0
